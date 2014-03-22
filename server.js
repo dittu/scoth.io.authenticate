@@ -24,6 +24,8 @@ app.configure(function() {
 
 });
 
+//test
+
 
 require('./routes.js')(app, passport);
 
